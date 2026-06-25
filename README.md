@@ -6,8 +6,8 @@ This project demonstrates a Windows Server Active Directory environment built us
 
 ## Environment
 
-- Windows Server 2022
-- Windows 11 Pro
+- Windows Server 2025
+- Windows 10 Pro
 - VirtualBox
 - Active Directory Domain Services
 - DNS
